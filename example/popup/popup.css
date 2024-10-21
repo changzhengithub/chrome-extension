@@ -1,0 +1,17 @@
+.index {
+  width: 300px;
+  height: 400px;
+  background-color: #fff;
+}
+
+.index-header {
+  width: 100%;
+  margin-bottom: 30px;
+  text-align: center;
+}
+
+.index-btn {
+  width: 100%;
+  margin-bottom: 30px;
+  text-align: center;
+}
