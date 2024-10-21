@@ -32,3 +32,6 @@ popup为插件的弹窗内容，弹窗相当于一个单独的浏览器页面，
 
 ## 发布
 [发布插件](https://developer.chrome.com/docs/webstore/register?hl=zh-cn)
+
+## 官方示例
+[chrome-extensions-samples](https://github.com/GoogleChrome/chrome-extensions-samples)
